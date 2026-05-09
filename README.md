@@ -1,5 +1,5 @@
 # lufay-receitas
-# 🍽️ Lufay Receitas — Landing Page
+# 🍽️ Lufay Receitas | Landing Page
 
 Landing page de vendas desenvolvida para comercialização do e-book **"Fácil, Simples e Delicioso"** da Lufay Receitas. Projeto real em produção, construído como uma aplicação serverless rodando na edge da Cloudflare.
 
@@ -97,7 +97,7 @@ Para uma landing page de vendas, frameworks de frontend adicionam peso desnecess
 
 ## 🚀 Funcionalidades da Página
 
-- Design responsivo — celular, tablet e desktop
+- Design responsivo | celular, tablet e desktop
 - Seção hero com proposta de valor e CTA principal
 - Listagem de conteúdo do e-book (25 receitas por categoria)
 - Seção de depoimentos (prova social)
@@ -121,7 +121,7 @@ Para uma landing page de vendas, frameworks de frontend adicionam peso desnecess
 ## 👨‍💻 Desenvolvedor
 
 **João Vittor Lara**
-Estudante de Ciência da Computação — Uninter
+Estudante de Ciência da Computação | Uninter
 📍 Curitiba, PR
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jo%C3%A3o-vittor-7b445631b/)
